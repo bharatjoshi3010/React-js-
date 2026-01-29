@@ -1,0 +1,3 @@
+<---------------Hooks-------------------->
+special type of functions used to do certain works 
+1. useState : Used to update values and it automatically get changed in the UI
